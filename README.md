@@ -1,8 +1,8 @@
-# 👋 Hi there! I'm Caio S. Duarte
+# 👋 Salute! I'm Caio S. Duarte
 
-Full-Stack Aspirant | Recifense do Pernambucolismo da Nata
+I'm a Full-Stack Aspirant from Recife, Brazil, the capital of Pernambuco.
 
-Welcome to my GitHub profile! I'm passionate about web development and continuously learning new technologies to enhance my skills.
+Welcome to my GitHub profile! I'm focoused on programming and continuously learning new technologies to enhance my skills.
 
 ## 🚀 About Me
 
