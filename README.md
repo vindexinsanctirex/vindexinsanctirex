@@ -1,8 +1,8 @@
 # 👋 Salute! I'm Caio S. Duarte
 
-I'm a Full-Stack Aspirant from Recife, Brazil, the capital of Pernambuco.
+I'm a Full-Stack Aspirant.
 
-Welcome to my GitHub profile! I'm focoused on programming and continuously learning new technologies to enhance my skills.
+Welcome to my GitHub profile! I'm focused on programming and continuously learning new technologies to enhance my skills.
 
 ## 🚀 About Me
 
@@ -19,6 +19,7 @@ I'm a self-taught developer from Recife, Brazil, with a focus on:
 - **HTML/CSS**: Crafting well-structured and styled web pages.
 - **JavaScript**: Adding interactivity and dynamic content to websites.
 - **Python**: Writing scripts and applications for various purposes.
+- **SQL**: Designing and querying relational databases to manage and analyze structured data efficiently.
 
 ### Tools & Platforms
 
