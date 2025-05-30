@@ -32,7 +32,6 @@ Here are some of my repositories:
 
 - [my-very-first-html-project](https://github.com/vindexinsanctirex/my-very-first-html-project): A simple HTML project showcasing my initial steps in web development.
 - [PythonProject](https://github.com/vindexinsanctirex/PythonProject): A Python-based project demonstrating my scripting abilities.
-- [practice](https://github.com/vindexinsanctirex/practice): A collection of various coding exercises and experiments.
 
 ## 📫 Let's Connect
 
