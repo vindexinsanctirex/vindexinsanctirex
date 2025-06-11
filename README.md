@@ -59,9 +59,6 @@ Here are some of the repositories that reflect my learning journey:
 3. **[SQL_Initial_Repository](https://github.com/vindexinsanctirex/SQL_Initial_Repository)**  
    A collection of SQL exercises demonstrating my understanding of relational databases, queries, and normalization.
 
-4. **[introduction](https://github.com/vindexinsanctirex/introduction)**  
-   A short overview of who I am and what I aim to achieve in tech.
-
 ---
 
 ## 🚀 Goals
