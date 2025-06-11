@@ -39,7 +39,7 @@ I'm currently sharpening my skills by working on practical repositories and expl
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-  <img src="https://assets.svgrepo.com/png/354237/34/pycharm-icon.png" alt="PyCharm" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="PyCharm" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="40" height="40"/>
