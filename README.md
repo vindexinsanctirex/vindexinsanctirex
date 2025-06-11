@@ -86,4 +86,4 @@ Feel free to reach out or connect:
 
 ## 📄 License
 
-This README and all listed repositories are covered under the [MIT License](LICENSE).
+This README and all listed repositories are covered under the [MIT License](LICENSE.md).
