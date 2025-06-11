@@ -2,7 +2,7 @@
 
 ## 🧭 About Me
 
-Hi, I'm **Caio S. Duarte**, a passionate full-stack aspirer developer from Recife, Pernambuco. I specialize in:
+Hi, I'm <strong>Caio S. Duarte</strong>, a passionate full-stack aspirer developer from Recife, Pernambuco. I specialize in:
 
 * **Frontend**: HTML, CSS, JavaScript
 * **Backend**: Python
