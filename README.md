@@ -46,7 +46,7 @@ I'm currently sharpening my skills by working on practical repositories and expl
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vindexinsanctirex&layout=compact&theme=radical)](https://github.com/vindexinsanctirex/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vindexinsanctirex&layout=compact&theme=radical)](https://github.com/vindexinsanctirex/github-readme-stats) [![vindex’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vindexinsanctirex&show_icons=true&theme=dark)](https://github.com/vindexinsanctirex/github-readme-stats)
 
 ---
 
