@@ -1,63 +1,89 @@
----
-
 ## 🧭 About Me
 
-Hi, I'm <strong>Caio S. Duarte</strong>, a passionate full-stack aspirer developer from Recife, Pernambuco. I specialize in:
+Hi, I'm **Caio S. Duarte**, a passionate full-stack developer-in-progress based in Recife, Pernambuco, Brazil. I'm deeply interested in building clean, responsive, and meaningful digital experiences. My primary focus areas include:
 
-* **Frontend**: HTML, CSS, JavaScript
-* **Backend**: Python
-* **Databases**: SQL
-* **Frameworks & Libraries**: React, Flask
-* **Tools**: Git, GitHub, VS Code
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Python  
+- **Databases**: SQL  
+- **Frameworks & Libraries**: React, Flask  
+- **Tools**: Git, GitHub, VS Code  
 
-I'm currently exploring web development and building repositories to sharpen my skills.
+I'm currently sharpening my skills by working on practical repositories and exploring new technologies in web development.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ## 📂 Repositories
 
-Here are some of my repositories:
+Here are some of the repositories that reflect my learning journey:
 
-1. **[HTML\_Initial\_Repository](https://github.com/vindexinsanctirex/HTML_Initial_Repository)**
-   A simple HTML repository showcasing my initial steps in web development.
+1. **[HTML_Initial_Repository](https://github.com/vindexinsanctirex/HTML_Initial_Repository)**  
+   A beginner-friendly HTML project that marks my first steps into web development.
 
-2. **[Python\_Initial\_Repository](https://github.com/vindexinsanctirex/Python_Initial_Repository)**
-   A Python-based repository where I experiment with various libraries and concepts.
+2. **[Python_Initial_Repository](https://github.com/vindexinsanctirex/Python_Initial_Repository)**  
+   My playground for Python code, experimenting with scripts, functions, and logic building.
 
-3. **[SQL\_Initial\_Repository](https://github.com/vindexinsanctirex/SQL_Initial_Repository)**
-   A repository focused on SQL queries and database design. This repo contains exercises and examples related to SQL syntax, database normalization, and performance optimization.
+3. **[SQL_Initial_Repository](https://github.com/vindexinsanctirex/SQL_Initial_Repository)**  
+   A collection of SQL exercises demonstrating my understanding of relational databases, queries, and normalization.
 
-4. **[introduction](https://github.com/vindexinsanctirex/introduction)**
-   A brief introduction to my journey as a developer.
+4. **[introduction](https://github.com/vindexinsanctirex/introduction)**  
+   A short overview of who I am and what I aim to achieve in tech.
 
 ---
 
 ## 🚀 Goals
 
-* Build and deploy full-stack applications
-* Contribute to open-source repositories
-* Learn new technologies and frameworks
-* Collaborate with other developers and grow in the community
+- Deploy a full-stack application  
+- Contribute to open-source repositories  
+- Explore cloud platforms and DevOps fundamentals  
+- Join and grow with a developer community  
+- Keep learning and never stop building  
 
 ---
 
 ## 📫 Contact
 
-Feel free to reach out via:
+Feel free to reach out or connect:
 
-* GitHub: [vindexinsanctirex](https://github.com/vindexinsanctirex)
-* Email: [caiosduarte@protonmail.com](mailto:caiosduarte@protonmail.com)
-* LinkedIn: [Caio S. Duarte](https://www.linkedin.com/in/caio-s-duarte-342b1627b/)
+- 📂 GitHub: [vindexinsanctirex](https://github.com/vindexinsanctirex)  
+- 📧 Email: [caiosduarte@protonmail.com](mailto:caiosduarte@protonmail.com)  
+- 🔗 LinkedIn: [Caio S. Duarte](https://www.linkedin.com/in/caio-s-duarte-342b1627b/)  
 
 ---
 
 ## 📄 License
 
-This README and the associated repositories are licensed under the MIT License. See the LICENSE file for more details.
-
----
+This README and all listed repositories are covered under the [MIT License](LICENSE).
