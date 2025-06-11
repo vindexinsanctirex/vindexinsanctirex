@@ -46,6 +46,10 @@ I'm currently sharpening my skills by working on practical repositories and expl
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vindexinsanctirex&layout=compact&theme=radical)](https://github.com/vindexinsanctirex/github-readme-stats)
+
+---
+
 ## 📂 Repositories
 
 Here are some of the repositories that reflect my learning journey:
