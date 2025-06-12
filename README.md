@@ -54,7 +54,7 @@ I'm currently sharpening my skills by working on practical repositories and expl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/scrum-org-1.svg" alt="Scrum" width="40" height="40"/>
+  <img src="[https://cdn.worldvectorlogo.com/logos/scrum-org-1.svg](https://cdn-icons-png.flaticon.com/512/3176/3176361.png)" alt="Scrum" width="40" height="40"/>
   </a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40"/>
