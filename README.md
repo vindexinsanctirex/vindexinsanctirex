@@ -3,10 +3,10 @@
 Hi, I'm **Caio S. Duarte**, a passionate full-stack developer-in-progress based in Recife, Pernambuco, Brazil. I'm deeply interested in building clean, responsive, and meaningful digital experiences. My primary focus areas include:
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Python  
+- **Backend**: Python, JavaScript  
 - **Databases**: SQL  
-- **Frameworks & Libraries**: React, Flask  
-- **Tools**: Git, GitHub, VS Code, PyCharm, MySQL
+- **Frameworks & Libraries**: React, Flask, Django  
+- **Tools**: Git, GitHub, VS Code, PyCharm, MySQL, Postman
 
 I'm currently sharpening my skills by working on practical repositories and exploring new technologies in web development.
 
