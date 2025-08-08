@@ -44,9 +44,6 @@ I'm currently sharpening my skills by working on practical repositories and expl
   <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
-  </a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40"/>
   </a>
