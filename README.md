@@ -53,10 +53,10 @@ I'm currently sharpening my skills by working on practical repositories and expl
     <a href="https://sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/667f2d98856e323d92d5c7cb_667f2b52e7524d84e7615bd9_1200px-Sqlite-square-icon.svg.png" alt="Sqlite" width="40" height="40"/>
     </a>
-    <a href="https://flask.palletsprojects.com/" rel="noreferrer">
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://img.favpng.com/24/6/2/flask-python-web-framework-web-application-tutorial-png-favpng-Bhv4ME7Heb8X0q5D1yQA8DU1L.jpg" alt="Flask" width="40" height="40"/>
     </a>
-    <a href="https://react.dev/" rel="noreferrer">
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="Flask" width="40" height="40"/>
     </a>
 </p>
