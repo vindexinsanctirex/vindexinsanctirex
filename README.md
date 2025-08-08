@@ -57,7 +57,7 @@ I'm currently sharpening my skills by working on practical repositories and expl
     <img src="https://img.favpng.com/24/6/2/flask-python-web-framework-web-application-tutorial-png-favpng-Bhv4ME7Heb8X0q5D1yQA8DU1L.jpg" alt="Flask" width="40" height="40"/>
     </a>
     <a href="https://react.dev/" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/0*K-oZW2c6Ljq6plD7.png" alt="Flask" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" alt="Flask" width="40" height="40"/>
     </a>
 </p>
 
