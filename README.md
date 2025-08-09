@@ -6,7 +6,7 @@ Hi, I'm **Caio S. Duarte**, a passionate full-stack developer-in-progress based 
 - **Backend**: Python, JavaScript  
 - **Databases**: SQL  
 - **Frameworks & Libraries**: React, Flask, Django  
-- **Tools**: Git, GitHub, VS Code, Colab, MySQL, Postman
+- **Tools**: Git, GitHub, VS Code, Colab, MySQL, SQLite, Postman
 
 I'm currently sharpening my skills by working on practical repositories and exploring new technologies in full stack programming.
 
