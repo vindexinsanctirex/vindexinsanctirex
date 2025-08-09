@@ -6,7 +6,7 @@ Hi, I'm **Caio S. Duarte**, a passionate full-stack developer-in-progress based 
 - **Backend**: Python, JavaScript  
 - **Databases**: SQL  
 - **Frameworks & Libraries**: React, Flask, Django  
-- **Tools**: Git, GitHub, VS Code, PyCharm, MySQL, Postman
+- **Tools**: Git, GitHub, VS Code, Colab, MySQL, Postman
 
 I'm currently sharpening my skills by working on practical repositories and exploring new technologies in web development.
 
@@ -58,6 +58,9 @@ I'm currently sharpening my skills by working on practical repositories and expl
     </a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="Flask" width="40" height="40"/>
+    </a>
+    <a href="https://voyager.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" width="40" height="40"/>
     </a>
 </p>
 
