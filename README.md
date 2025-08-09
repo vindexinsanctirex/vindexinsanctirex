@@ -62,6 +62,9 @@ I'm currently sharpening my skills by working on practical repositories and expl
     <a href="https://voyager.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" width="40" height="40"/>
     </a>
+    <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://thf.bing.com/th?q=Google+Colab+Icon.png&w=120&h=120&c=1&rs=1&qlt=70&r=0&o=7&cb=1&dpr=1.3&pid=InlineBlock&rm=3&mkt=pt-BR&cc=BR&setlang=pt-br&adlt=moderate&t=1&mw=247" alt="Colab" width="40" height="40"/>
+    </a>
 </p>
 
 ---
