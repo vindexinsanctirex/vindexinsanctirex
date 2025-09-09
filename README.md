@@ -97,8 +97,6 @@ Here are some of the repositories that reflect my learning journey:
 - Keep learning and never stop building  
 
 ---
-<iframe src="https://github.com/sponsors/vindexinsanctirex/card" title="Sponsor vindexinsanctirex" height="225" width="600" style="border: 0;"></iframe>
----
 
 ## 📫 Contact
 
