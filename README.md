@@ -5,7 +5,7 @@ Hi, I'm **Caio S. Duarte**, a passionate full-stack, data scientist, system anal
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python, JavaScript  
 - **Databases**: SQL  
-- **Frameworks & Libraries**: React, Flask, Django  
+- **Frameworks & Libraries**: React, Flask, Django, Node  
 - **Tools**: Git, GitHub, VS Code, Colab, MySQL, SQLite, Postman
 
 I'm currently sharpening my skills by working on practical repositories and exploring new technologies in full stack programming.
