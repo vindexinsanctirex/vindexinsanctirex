@@ -1,6 +1,6 @@
 ## 🧭 About Me
 
-Hi, I'm **Caio S. Duarte**, a passionate full-stack, data scientist, system analyst, developer-in-progress currently based in Recife, Pernambuco, Brazil. I'm deeply interested in building clean, responsive, and meaningful digital experiences. My primary focus areas include:
+Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stack essentials knowledge, also delving in Data Science and GenAI, currently based in Recife, Pernambuco, Brazil. I'm deeply interested in building clean, responsive, and meaningful digital experiences. My primary focus areas include:
 
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python, JavaScript  
