@@ -5,7 +5,7 @@ Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stac
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python
 - **Databases**: SQL and MongoDB
-- **Frameworks & Libraries**: React, Flask, Django, Node, Vite, Pandas, NumPy 
+- **Frameworks & Libraries**: React, Flask, Django, Selenium, Node, Vite, Pandas, NumPy 
 - **Tools**: Git, GitHub, VS Code, Render, Colab, MySQL, SQLite, Postman
 
 
