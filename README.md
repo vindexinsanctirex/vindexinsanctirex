@@ -80,21 +80,6 @@ Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stac
 
 ---
 
-## 📂 Repositories
-
-Here are some of the repositories that reflect my learning journey:
-
-1. **[HTML_Initial_Repository](https://github.com/vindexinsanctirex/HTML_Initial_Repository)**  
-   A beginner-friendly HTML project that marks my first steps into web development.
-
-2. **[Python_Initial_Repository](https://github.com/vindexinsanctirex/Python_Initial_Repository)**  
-   My playground for Python code, experimenting with scripts, functions, and logic building.
-
-3. **[SQL_Initial_Repository](https://github.com/vindexinsanctirex/SQL_Initial_Repository)**  
-   A collection of SQL exercises demonstrating my understanding of relational databases, queries, and normalization.
-
----
-
 ## 🚀 Goals
 
 - Deploy a full-stack application  
