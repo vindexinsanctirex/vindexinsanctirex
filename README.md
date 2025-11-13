@@ -3,10 +3,10 @@
 Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stack essentials knowledge, also delving in Data Science and GenAI, currently based in Recife, Pernambuco, Brazil. I'm deeply interested in building clean, responsive, and efficient digital tools. My overall knowledge includes:
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Python, JavaScript  
+- **Backend**: Python
 - **Databases**: SQL and MongoDB
 - **Frameworks & Libraries**: React, Flask, Django, Node, Vite, Pandas, NumPy 
-- **Tools**: Git, GitHub, VS Code, Colab, MySQL, SQLite, Postman
+- **Tools**: Git, GitHub, VS Code, Render, Colab, MySQL, SQLite, Postman
 
 
 
