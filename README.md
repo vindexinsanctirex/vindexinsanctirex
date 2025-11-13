@@ -1,6 +1,6 @@
 ## 🧭 About Me
 
-Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stack essentials knowledge, also delving in Data Science and GenAI, currently based in Recife, Pernambuco, Brazil. I'm deeply interested in building clean, responsive, and meaningful digital experiences. My primary focus areas include:
+Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stack essentials knowledge, also delving in Data Science and GenAI, currently based in Recife, Pernambuco, Brazil. I'm deeply interested in building clean, responsive, and efficient digital tools. My overall knowledge includes:
 
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python, JavaScript  
@@ -8,7 +8,12 @@ Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stac
 - **Frameworks & Libraries**: React, Flask, Django, Node, Vite, Pandas, NumPy 
 - **Tools**: Git, GitHub, VS Code, Colab, MySQL, SQLite, Postman
 
-I'm currently sharpening my skills by working on practical repositories and exploring new technologies in full stack programming. See my portfolio of achievements at <a href="https://vindexinsanctirex.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">this link</a>.
+
+<p align="center">
+  <a href="https://vindexinsanctirex.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Explore_My_Progress-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
