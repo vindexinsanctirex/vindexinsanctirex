@@ -12,7 +12,7 @@ Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stac
 
 
 <p align="center">
-  <a href="https://vindexinsanctirex.github.io/Portfolio/">
+  <a href="https://vindexinsanctirex.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Launch_Portfolio-%23B71F40.svg?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
