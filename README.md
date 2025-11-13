@@ -9,9 +9,11 @@ Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stac
 - **Tools**: Git, GitHub, VS Code, Colab, MySQL, SQLite, Postman
 
 
+
+
 <p align="center">
   <a href="https://vindexinsanctirex.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Explore_My_Progress-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-%23000000.svg?style=for-the-badge&logo=computer&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
