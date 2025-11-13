@@ -48,9 +48,6 @@ Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stac
   <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="40" height="40"/>
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40"/>
   </a>
