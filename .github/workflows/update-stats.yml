@@ -12,3 +12,7 @@ jobs:
         with:
           token: ${{ secrets.STATS }}
           username: vindexinsanctirex
+      - name: Purge CDN Cache
+        run: |
+          curl -X PURGE https://github-readme-stats.vercel.app/api?username=vindexinsanctirex
+          curl -X PURGE https://github-readme-streak-stats.herokuapp.com?user=vindexinsanctirex   
