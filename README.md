@@ -76,15 +76,11 @@ Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stac
 
 ---
 
-[![vindex’s GitHub stats](https://github-readme-stats.vercel.app/api?username=vindexinsanctirex&show_icons=true&theme=dark)](https://github.com/vindexinsanctirex/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vindexinsanctirex&layout=compact&theme=radical)](https://github.com/vindexinsanctirex/github-readme-stats) 
-
----
-
 ## 🚀 Goals
 
-- Deploy a full-stack application  
-- Contribute to open-source repositories  
-- Explore cloud platforms and DevOps fundamentals  
+- Deploy a full-stack application if needed, but specializing on Backend with Python  
+- Contribute to open-source repositories and major projects worldwide
+- Explore cloud platforms and DevOps fundamentals
 - Join and grow with a developer community  
 - Keep learning and never stop building  
 
