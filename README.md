@@ -96,7 +96,6 @@ Hi, I'm **Caio S. Duarte**, a passionate Python Backend Developer with full-stac
 
 Feel free to reach out or connect:
 
-- 📂 GitHub: [vindexinsanctirex](https://github.com/vindexinsanctirex) 
 - 📧 Email: [caiosduarte@protonmail.com](mailto:caiosduarte@protonmail.com)  
 - 🔗 LinkedIn: [Caio S. Duarte](https://www.linkedin.com/in/caio-s-duarte-342b1627b/)  
 
